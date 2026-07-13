@@ -1,0 +1,18 @@
+{
+  "name": "thinktank",
+  "version": "0.1.0",
+  "description": "Agent skills for structured multi-perspective deliberation.",
+  "private": true,
+  "type": "module",
+  "keywords": [
+    "agent-skills",
+    "deliberation",
+    "subagents",
+    "collaboration"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}

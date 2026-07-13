@@ -1,0 +1,36 @@
+{
+  "name": "thinktank",
+  "version": "0.1.0",
+  "description": "Structured multi-perspective deliberation for ambiguous problems, competing priorities, and consequential trade-offs.",
+  "author": {
+    "name": "Thinktank Contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "collaboration",
+    "deliberation",
+    "subagents",
+    "brainstorming",
+    "decision-support",
+    "systems-thinking"
+  ],
+  "skills": "./skills/",
+  "hooks": {},
+  "interface": {
+    "displayName": "Think Tank",
+    "shortDescription": "Explore ambiguous problems through structured perspectives",
+    "longDescription": "Think Tank helps an orchestrating agent frame ambiguous problems, convene complementary subagent perspectives, preserve dissent, test assumptions, and synthesize coherent solution sets without mistaking consensus for evidence.",
+    "developerName": "Thinktank Contributors",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "defaultPrompt": [
+      "Use a think tank to explore this problem from genuinely different perspectives.",
+      "Convene a standard-depth council and map the strongest solution sets."
+    ],
+    "brandColor": "#5B5BD6",
+    "screenshots": []
+  }
+}
