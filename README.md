@@ -1,5 +1,7 @@
 # Think Tank
 
+[![skills.sh](https://skills.sh/b/fielc92/thinktank)](https://skills.sh/fielc92/thinktank)
+
 Think Tank is an Agent Skills plugin for exploring ambiguous problems through structured multi-perspective deliberation.
 
 Its first skill, `collaborating`, turns the main agent into an orchestrator. The orchestrator frames one shared inquiry, convenes complementary council roles, protects first-round independence where the host supports subagents, directs targeted critique and revision, builds coherent solution sets, stress-tests them, and preserves consequential dissent.
